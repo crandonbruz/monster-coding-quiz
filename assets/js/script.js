@@ -3,7 +3,6 @@ var codingQuiz = document.getElementById("question");
 var timeElement = document.getElementById("timer");
 var answersElement = document.getElementById("answers");
 var startButton = document.getElementById("start");
-var submitButton = document.getElementById("submit");
 
 var quizQuestions = [
   {
@@ -115,3 +114,5 @@ codingQuiz.addEventListener("click", function (event) {
     }
   }
 });
+
+
