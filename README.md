@@ -6,10 +6,10 @@ Here is my coding quiz web application. In this app, the user is able to take a 
 N/A
 
 ## Usage
-N/A
+[Click to see the final product](https://crandonbruz.github.io/monster-trio/)
 
 ## Credits
-![Screenshot of the webpage]()
+![Screenshot of the webpage](./assets/images/127.0.0.1_5501_index.html%20(1).png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
