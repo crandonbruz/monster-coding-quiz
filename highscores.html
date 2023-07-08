@@ -8,11 +8,15 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
   </head>
   <body>
+    <div id="finito" class="hide">
+        <h2>Finished!</h2>
+        <p>You Scored: <span id="resultados"></span></p>
+      </div>
     <div id="high">
       <h1 class="h1">Highscores</h1>
       <ol id="highscores-list"></ol>
       <form action="submit">
-        <input class="initials" type="text" />
+        <input class="initials" id="uppercase" type="text" />
       </form>
       <a class="baboon" href="index.html">Back</a>
       <button id="clear">Clear</button>

@@ -44,41 +44,40 @@ button {
   display: none;
 }
 
-#question{
-    text-align: center;
-    padding: 200px;
+#question {
+  text-align: center;
+  padding: 200px;
 }
 
-#answers{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    
+#answers {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
-.initials{
-    display: block;
-    margin: 0 auto;
+.initials {
+  display: block;
+  margin: 0 auto;
 }
 #highscores {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
-#high{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    padding: 300px;
+#high {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 300px;
 }
 
- .baboon{
-    position: relative;
-    top: 30px;
-    right: 70px;
-    background-color: rgb(63, 7, 115);
-    font-style: bold;
-    color: white;
-    border-radius: 12px;
-} 
+.baboon {
+  position: relative;
+  top: 30px;
+  right: 70px;
+  background-color: rgb(63, 7, 115);
+  font-style: bold;
+  color: white;
+  border-radius: 12px;
+}

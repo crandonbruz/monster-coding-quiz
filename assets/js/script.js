@@ -89,7 +89,7 @@ function startQuiz() {
 }
 
 function toHighscores() {
-  localStorage.setItem("", secondsLeft);
+  localStorage.setItem("Score", secondsLeft);
   window.location.href = "highscores.html";
 }
 
@@ -114,5 +114,4 @@ codingQuiz.addEventListener("click", function (event) {
     }
   }
 });
-
 
